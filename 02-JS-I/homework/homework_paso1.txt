@@ -1,0 +1,9 @@
+Variables: es un contenedor en memoria que sirve para almacenar un valor y que sera usado posteriormente.
+
+Strings: es una cadena de carateres es decir un bloque de texto y se puede guardar en una variable.
+
+Funciones (argumentos, return): es un conjunto de acciones que se ejecuta para obtener un resultado, estos pueden recibir datos de entrada y retornan un resultado.
+
+Declaraciones if: es una instrucción condicional, que permite ejecutar una o mas acciones solo si se cumple una condición.
+
+Valores booleanos (true, false): es un valor que tiene dos estados: "verdadero-true" y "falso-false" y se puede guardar en una variable.
