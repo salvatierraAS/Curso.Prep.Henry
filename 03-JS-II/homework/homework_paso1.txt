@@ -1,0 +1,15 @@
+For: permite ejecutar un bloque de instrucciones de forma ciclica es decir mas de una vez, y se ejecutara la cantidad de veces mientras la condicion del 
+bucle se cumpla, es decir mientras la condicion es "true", porque si la condicion de bucle es "false", entonces se termina la ejecucion del "for".
+Una forma de usar el "for" es aplicando la siguiente definición:
+1. definir una variable de control
+2. definir una expresion de bucle a evaluar (condicion de bucle), mientras esta expresion evalua a "true" se ejecuta el bucle.
+3. incrementar la variable de control
+
+operador &&: operador lógico que se utiliza para evaluar dos expresiones y simboliza el conector "Y" (p && q <=> p y q), el resultado del operador && consiste en que se debe 
+cumplir como Verdadero cada expresión para que el resultado final sea Verdadero, si alguno de las expresiones es Falso el resultado total es Falso.
+
+operador ||: operador lógico que se utiliza para evaluar dos expresiones y simboliza el conector "O" (p || q <=> p oy q), el resultado del operador || consiste en que se debe 
+cumplir como Verdadero al menos una expresión para que el resultado final sea Verdadero, si las dos expresiones son Falso el resultado total es Falso.
+
+operador !: operador lógico que se utiliza para negar una expresión (!p <=> NO es cierto p ), el resultado del operador ! consiste en negar la expresión origen,
+si la expresión origen es Verdadero resultado final es Falso, si la expresión origen es Falso el resultado final es Verdadero.
