@@ -1,0 +1,3 @@
+Arrays: Es una coleccion o conjunto o grupo de variables, un array se puede definir como una gran caja y que a su vez esta dividida en pequeños compartimentos
+y que en cada compartimento se puede guardar un objeto. Un array es una coleccion de compartimentos que se puede recorrer y que su tamaño dependera de la 
+cantidad de compartimentos que conforman la coleccion.
